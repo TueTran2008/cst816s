@@ -65,4 +65,4 @@ pub mod prelude;
 mod driver;
 
 // export the driver and interface
-pub use driver::Cst816s;
+pub use driver::Cst328;
